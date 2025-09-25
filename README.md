@@ -1,4 +1,8 @@
-# Bionic for Zotero Reader
+# Bionic for Zotero Reader AI 
+
+Forked from https://github.com/windingwind/bionic-for-zotero?tab=readme-ov-file#-quick-start
+
+**unfinished**
 
 [![zotero target version](https://img.shields.io/badge/Zotero-7-green?style=flat-square&logo=zotero&logoColor=CC2936)](https://www.zotero.org)
 [![Using Zotero Plugin Template](https://img.shields.io/badge/Using-Zotero%20Plugin%20Template-blue?style=flat-square&logo=github)](https://github.com/windingwind/zotero-plugin-template)
